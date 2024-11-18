@@ -1,0 +1,12 @@
+{
+  "name": "projeto_render",
+  "version": "1.0.0",
+  "description": "este projeto visa orientar os alunos como realizar o deploy de uma aplicação node JS\r no servidor render.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
